@@ -1,4 +1,6 @@
-# Hosting UI 
+# Hosting 
+
+https://684e1e74ffd5146eaaa465f8--imaginative-druid-d82bdd.netlify.app/
 
 This repository is a personal project where I experiment with **Tailwind CSS styling**, test **responsive designs**, and recall some utility classes that I tend to forget. It serves as a visual and responsive playground.
 
